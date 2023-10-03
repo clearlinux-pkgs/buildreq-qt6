@@ -9,7 +9,6 @@ Requires:       qt6base-dev
 Requires:	qt6svg-dev
 Requires:	qt6tools
 Requires:	qt63d-dev
-Requires:	qt6activeqt-dev
 Requires:	qt6charts-dev
 Requires:	qt6connectivity-dev
 Requires:	qt6declarative-dev
