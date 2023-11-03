@@ -1,6 +1,6 @@
 Name:           buildreq-qt6
 Version:        1
-Release:        9
+Release:        10
 License:        GPL-2.0
 Summary:        Helper files
 Url:            https://clearlinux.org/
