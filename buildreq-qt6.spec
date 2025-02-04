@@ -25,6 +25,7 @@ Requires:	qt6sensors-dev
 Requires:	qt6serialport-dev
 Requires:	qt6shadertools-dev
 Requires:	qt6tools-dev
+Requires:	qt6base-staticdev
 
 Requires:	extra-cmake-modules
 
